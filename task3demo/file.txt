@@ -1,0 +1,25 @@
+This Room is booked and has key 100
+This Room is booked and has key 101
+This Room is booked and has key 102
+This Room is booked and has key 103
+This Room is booked and has key 104
+Guest 1 details : 
+Name : maria
+Room alloted with key : 100
+Services bill : 0
+Guest 2 details : 
+Name : hanna
+Room alloted with key : 101
+Services bill : 0
+Guest 3 details : 
+Name : tony
+Room alloted with key : 102
+Services bill : 0
+Guest 4 details : 
+Name : boyle
+Room alloted with key : 103
+Services bill : 0
+Guest 5 details : 
+Name : clay
+Room alloted with key : 104
+Services bill : 0
